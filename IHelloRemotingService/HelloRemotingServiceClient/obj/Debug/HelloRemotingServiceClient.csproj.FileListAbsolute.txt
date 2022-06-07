@@ -1,0 +1,13 @@
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csprojAssemblyReference.cache
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Form1.resources
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Properties.Resources.resources
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.GenerateResource.cache
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe.config
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.pdb
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.dll
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.pdb
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.CopyComplete
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.exe
+C:\Users\MrCode\source\repos\IHelloRemotingService\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.pdb

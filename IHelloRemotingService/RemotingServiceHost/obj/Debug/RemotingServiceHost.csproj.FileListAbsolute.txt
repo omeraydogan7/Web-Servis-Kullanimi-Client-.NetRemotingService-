@@ -1,0 +1,12 @@
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe.config
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.dll
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.pdb
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.csprojAssemblyReference.cache
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.csproj.CopyComplete
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+C:\Users\MrCode\source\repos\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb
